@@ -15,11 +15,11 @@
 
 ###
 
-<h3 align="center">ᓚ₍ ^. .^₎ technologies</h3>
+<h3 align="left">ᓚ₍ ^. .^₎ languages, tools, technologies</h3>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="40" alt="fedora logo"  />
@@ -42,6 +42,10 @@
 </div>
 
 ###
+<br></br>
+
+---
+<br></br>
 
 <h3 align="center">stats ₍^. .^₎⟆</h3>
 
