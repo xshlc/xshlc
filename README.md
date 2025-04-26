@@ -2,7 +2,7 @@
 
 ###
 
-&nbsp;&nbsp;&nbsp;&nbsp; welcome ฅ^.ᆺ.^ฅ
+&nbsp;&nbsp;&nbsp;&nbsp; welcome &nbsp;&nbsp; ᓚ₍ ^. .^₎
 
 ```
 
@@ -10,12 +10,6 @@
    ( ˶•o•˶)    ( •ω• )     ( •⤙•  )
    ଘ(ა🍱)      (ა🍙૮)｡      (🍤٩  )੭ 
 ```
-
-
-
-###
-
-<h3 align="left">ᓚ₍ ^. .^₎ languages, tools, technologies</h3>
 
 ###
 
@@ -41,13 +35,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
 </div>
 
+<h3 align="right">ฅ^.ᆺ.^ฅ</h3>
+
 ###
 <br></br>
 
 ---
 <br></br>
 
-<h3 align="center">stats ₍^. .^₎⟆</h3>
+<h3 align="center">stats&nbsp;&nbsp; ₍^. .^₎⟆</h3>
 
 ###
 
